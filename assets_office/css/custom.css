@@ -1,0 +1,17 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+	.large_panel {
+    width: 100%;
+    overflow: overlay;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+
+body {
+    line-height: 1;
+}
