@@ -1142,9 +1142,7 @@ Uri: https://i.imgur.com/2Stvws4.png
 File Name: C:\Downloaded Web Sites\imperiumkey.com\2Stvws4.png
 Content Type: image/png
 
-Uri: https://i.imgur.com/5qclvlt.png
-File Name: C:\Downloaded Web Sites\imperiumkey.com\5qclvlt.png
-Content Type: image/png
+<!-- Запись удалена -->
 
 Uri: https://i.imgur.com/aPhbZlO.png
 File Name: C:\Downloaded Web Sites\imperiumkey.com\aPhbZlO.png
